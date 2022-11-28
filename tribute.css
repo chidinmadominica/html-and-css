@@ -1,0 +1,57 @@
+body {
+background-color:;
+color: white;
+margin: 0;
+font-family: 'Merriweather'serif;
+font-size: 200%;
+text-align: center;
+}
+
+hr {
+border-bottom: none;
+width: 50%;
+} 
+
+h2 {
+margin-right: 550px;
+}
+
+.top {
+  background-color: black;
+padding-top: 50px;
+padding: 100px;
+text-align: center;
+}
+
+.middle-container {
+  color: black;
+  padding: 20px;
+}
+
+.bottom {
+  background-color: black ;
+  padding: 50px 0 20px;
+  color:white;
+  font-family:'Roboto', sans-serif;
+}
+
+.design {
+font-family:'Roboto', sans-serif;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.steve-jobs{
+  float: right;
+}
+
+.paul {
+  line-height: 2;
+  font-family:'Roboto', sans-serif;
+
+}
+
+.copyright {
+font-size: 0.75rem;
+}
